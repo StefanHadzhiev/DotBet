@@ -1,17 +1,17 @@
-# 🎮 Welcome to DotBet!
+# Welcome to DotBet!
 
 This repository involves a fun console game written in ASP.Net Core. 
 
 ---
 
-### 🎯 Key Features
+### Key Features
 - Feature 1: Deposit Amount - Updates the player balance to the provided value.
 - Feature 2: Withdraw Amount - Subtracts the provided amount from the player's balance if balance is enough.   
 - Feature 3: Bet Amount - Bets the provided amount if it is within the configured ranges and within the player's balance.  
 
 ---
 
-## ⚡ Commands
+## Commands
 
 ### 1. Deposit `[Amount]` 
 **Example:**  
@@ -39,7 +39,7 @@ Exit
 
 ---
 
-### 🚀 Getting Started
+### Getting Started
 1. Clone the repo  
 2. Build the project
 3. Run the project 
