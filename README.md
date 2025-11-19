@@ -31,7 +31,7 @@ Withdraw 50
 Bet 5
 ```
 
-### 3. Exit  
+### 4. Exit  
 **Example:**  
 ```bash
 Exit
