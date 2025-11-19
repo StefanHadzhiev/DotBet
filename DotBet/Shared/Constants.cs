@@ -9,8 +9,8 @@
         public const string LoseMessage = "No luck this time! Your current balance is ${0}.";
         public const string EnterValidRangeError = "Please enter an amount between ${0} and ${1}";
         public const string EnterValidCommandError = "Please enter a valid command in the format [Command] [Amount] or \"exit\".";
-        public const string InsufficientFundsForBet = "Insufficient Funds! Current balance: ${0}";
-        public const string FarewellMessage = "Goodbye, thank you for playing!";
+        public const string InsufficientFundsForBet = "Insufficient Funds! Current balance: ${0}"; 
+        public const string FarewellMessage = "Goodbye, thank you for playing!"; 
 
         public const string ExitCommand = "exit";
         public const string DepositCommand = "deposit";

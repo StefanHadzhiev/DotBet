@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotBet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12fccf45d2021350b601ee2bfe30ded437592762")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0686621d168b4a1656b39c6ac97036f3921a7549")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotBet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotBet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
